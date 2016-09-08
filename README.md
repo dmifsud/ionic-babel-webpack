@@ -13,14 +13,12 @@ An ionic boilerplate project built with webpack, written in es6
 ##Webpack development
 
     $ npm start
-or
-    $ webpack-dev-server
+
+Go to *http://localhost:5000/* to see updated changes.
+Result should look something like [this](https://dmifsud.github.io/ionic-babel-webpack/www/)
 
 ##Webpack build
 
     $ npm run build
-or
-    $ webpack
 
 *Note: this will package everything in the __www/__ folder*
-
