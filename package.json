@@ -1,7 +1,7 @@
 {
-  "name": "gamecheq",
+  "name": "Ionic Babel Webpack",
   "version": "1.1.1",
-  "description": "gamecheq: An Ionic project",
+  "description": "An ionic boilerplate project built with webpack, written in es6",
   "dependencies": {
     "angular": "^1.5.8",
     "babel-core": "^6.14.0",
